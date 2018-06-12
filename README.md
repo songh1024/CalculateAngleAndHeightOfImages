@@ -27,7 +27,7 @@ Calculating the object's angle and height in the image
 
 ![](https://github.com/songh1024/CalculateAngleAndHeightOfImages/blob/master/results/height/%E9%AB%98%E5%BA%A6.PNG?raw=true)
 
-- **夹角：**原图—图像分割—边缘检测—直线检测—计算角度
+- **夹角**：原图—图像分割—边缘检测—直线检测—计算角度
 
   ![](https://github.com/songh1024/CalculateAngleAndHeightOfImages/blob/master/results/angle/%E5%8E%9F%E5%9B%BE.PNG?raw=true)
 
