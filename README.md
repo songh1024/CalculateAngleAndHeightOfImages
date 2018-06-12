@@ -21,13 +21,19 @@ Calculating the object's angle and height in the image
 
 - **高度**：图像分割—边缘检测—关键点检测—kmeans得到最终点—计算距离
 
+  <div align=center> 
+
 ![](https://github.com/songh1024/CalculateAngleAndHeightOfImages/blob/master/results/height/%E5%8E%9F%E5%9B%BE.PNG?raw=true)
 
 ![](https://github.com/songh1024/CalculateAngleAndHeightOfImages/blob/master/results/height/%E5%88%86%E5%89%B2%E5%9B%BE.PNG?raw=true)
 
 ![](https://github.com/songh1024/CalculateAngleAndHeightOfImages/blob/master/results/height/%E9%AB%98%E5%BA%A6.PNG?raw=true)
 
+</div> 
+
 - **夹角**：原图—图像分割—边缘检测—直线检测—计算角度
+
+  <div align=center> 
 
   ![](https://github.com/songh1024/CalculateAngleAndHeightOfImages/blob/master/results/angle/%E5%8E%9F%E5%9B%BE.PNG?raw=true)
 
@@ -36,6 +42,8 @@ Calculating the object's angle and height in the image
   ![](https://github.com/songh1024/CalculateAngleAndHeightOfImages/blob/master/results/angle/%E8%BE%B9%E7%BC%98.PNG?raw=true)
 
   ![](https://github.com/songh1024/CalculateAngleAndHeightOfImages/blob/master/results/angle/%E7%9B%B4%E7%BA%BF.PNG?raw=true)
+
+  </div> 
 
   -----------------------------------------
 
