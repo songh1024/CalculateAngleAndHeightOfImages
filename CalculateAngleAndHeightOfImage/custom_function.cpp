@@ -1,5 +1,4 @@
 #include <opencv2/opencv.hpp>
-#include<io.h>
 using namespace cv;
 using namespace std;
 
